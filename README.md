@@ -1,5 +1,5 @@
 
-https://timed-frontend.vercel.app/
+
 
 Made to solve the issue of being overwhelmed by the fancy todo/day planner apps in the market, apps that dont focus on serving a flawless intuitive and seamless day planning functionality.
 Timed does exactly what its supposed to in a seamless manner.
